@@ -5,3 +5,4 @@ seaborn==0.12.2
 streamlit==1.17.0
 urlextract==1.8.0
 wordcloud==1.8.2.2
+
